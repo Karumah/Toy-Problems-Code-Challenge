@@ -1,13 +1,13 @@
 # Toy-Problems-Code-Challenge
-This repository contains solutions to JavaScript toy problems.
+This repository contains solutions to Toy-Problems challenges.
 
 ## Repository Structure
 
 Each challenge is located in its own JavaScript file within the repository. A single file contains only one solution.
 
 ```
-|-- javascript-toy-problems/
-    |-- net-salarys-calculator.js
+|-- toy-problems challenges/
+    |-- net-salary-calculator.js
     |-- speed-detector.js
     |-- student-grade.js
 |-- README.md
